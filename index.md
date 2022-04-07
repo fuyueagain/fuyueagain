@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to fuyue's GitHub Pages
+
+TOday ,i have a bad temper and a goog sight !
+this is my hub page ,welcome to communicate with me!
 
 You can use the [editor on GitHub](https://github.com/fuyueagain/fuyueagain.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
